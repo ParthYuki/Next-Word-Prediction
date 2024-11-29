@@ -1,7 +1,3 @@
-Here’s a concise and structured `README.md` file for your GitHub repository:
-
----
-
 # **Next-Word Prediction Using GPT-2**
 
 This project demonstrates a Next-Word Prediction application fine-tuned on the **Sherlock Holmes** text dataset. The repository includes the training code, dataset, and an interactive web interface to generate next-word suggestions.
